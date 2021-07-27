@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AACI,AAAA,OAAO,CAAA;EACL,UAAU,EAAE,MAAM;CACnB;;AACD,AAAA,UAAU,EAAE,EAAE,CAAC;EACb,KAAK,EALM,GAAG;CAMf",
+    "sources": [
+        "storevariables.scss"
+    ],
+    "names": [],
+    "file": "storevariables.css"
+}
